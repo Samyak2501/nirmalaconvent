@@ -1,0 +1,109 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.head{
+    margin-top: 20px;
+    text-align: center;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.passage-1{
+    text-align: center;
+    position: relative;
+    top: 85px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.extract-1{
+    text-align: center;
+    position: relative;
+    top: 95px;
+    font-style: italic;
+}
+
+.question-1{
+    position: relative;
+    top: 115px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ans-1{
+    color: gray;
+    position: relative;
+    top: 135px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100px;
+}
+
+.question-2{
+    position: relative;
+    top: 185px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ans-2{
+    color: gray;
+    position: relative;
+    top: 205px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100px;
+}
+
+.question-3{
+    position: relative;
+    top: 255px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.ans-3{
+    color: gray;
+    position: relative;
+    top: 275px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100px;
+}
+
+.question-4{
+    position: relative;
+    top: 325px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100;
+}
+
+.ans-4{
+    color: gray;
+    position: relative;
+    top: 345px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100px;
+}
+
+.question-5{
+    position: relative;
+    top: 395px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100;
+}
+
+.ans-5{
+    color: gray;
+    position: relative;
+    top: 415px;
+    left: 35px;
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 1100px;
+    margin-bottom: 500px;
+}
